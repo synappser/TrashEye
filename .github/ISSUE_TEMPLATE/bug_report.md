@@ -3,7 +3,7 @@ name: Bug report
 about: Create a report to help improve TrashEye
 title: ''
 labels: ''
-assignees: ''
+assignees: synappser
 
 ---
 
