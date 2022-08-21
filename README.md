@@ -7,7 +7,7 @@
 
 With my laptop’s small display, I have Dock-hiding always turned on – anyway the trash icon doesn’t show the file count and a quick Command-Option-D brings it back. Like many of you, I got used to the Trash Can on the Desktop with DragThing that I later replaced with Bin-it until the latter was also discontinued.
 
-[Read more about its features...](https://synappser.github.io/apps/trasheye/)
+[Read more...](https://synappser.github.io/apps/trasheye/)
 
 This repository is a placeholder for its public beta issues and feature requests.
 
