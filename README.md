@@ -21,6 +21,18 @@ Yes, TrashEye is currently in public beta.
 
 Yes, TrashEye is free while it's in beta.
 
+## Features
+
+- Sliding the switch to On in the Preferences window, displays a Trash icon in the bottom left corner of your Desktop
+- A single click (left-click) on TrashEye's icon opens the Bin folder
+- Right-clicking on the Trash Can opens a contextual menu
+- To reposition the Trash on your Desktop click the Reposition Trash menu item. This action will reveal its background view, allowing you to grab it and move it to your liking
+- "Force Empty Trash" deletes locked files. It auto-detects if Touch ID is enabled for sudo and adapts its strategy accordingly (see below for a Howto):
+  - [How to enable Touch ID for sudo on MacBook Pro](https://azimi.io/how-to-enable-touch-id-for-sudo-on-macbook-pro-46272ac3e2df)
+  - [Can Touch ID for the Mac Touch Bar authenticate sudo users and admin privileges?](https://apple.stackexchange.com/questions/259093/can-touch-id-for-the-mac-touch-bar-authenticate-sudo-users-and-admin-privileges)
+- Dragging items on to TrashEye's Desktop icon adds them to the trash
+- Dragging installer volumes to TrashEye's Desktop icon ejects them
+
 ## Roadmap
 
 - [ ] Count hidden trashed files option
