@@ -35,22 +35,24 @@ Yes, TrashEye is free while it's in beta.
 
 ## Roadmap
 
+- [x] Make it possible to resize trash icon
+- [x] Trash image should adapt to dark mode like the regular one in the dock
+- [x] Add slight transparency on red badge (see system preferences badge in Dock)
+- [x] The badge is clipping on its parent view when going from 1/0 or 0/1
 - [ ] Count hidden trashed files option
 - [ ] Add a separate general Keyboard Shortcut to open Preferences window
 - [ ] Open Trash and Empty Trash as menu bar items
 - [ ] Add an option to double-click to open Trash instead of a single click
-- [ ] Make it possible to resize trash icon
 - [ ] Offer a BetterTouchTool Touch Bar companion Trash Can widget
 - [ ] On Desktop, a right-click should also give an open trash option in case a reminder is needed for what exactly is in the trash
-- [ ] Trash image should adapt to dark mode like the regular one in the dock
 - [ ] Add a reset option to move the trash back to its default position
 - [ ] Add a general Restore Default Settings option
-- [ ] Add slight transparency on red badge (see system preferences badge in Dock)
-- [ ] The badge is clipping on its parent view when going from 1/0 or 0/1
 - [ ] 10000 will also clip (set to 10k+ when above 9999)
 - [ ] Add a Touch Bar Trash
 - [ ] Change menu bar icon according to empty/full trash can
 - [ ] Add multiple icons to choose from
+- [ ] Add option to disable count red badge
+- [ ] Add global shortcut to show trash content before emptying
 
 ## System Requirements
 
