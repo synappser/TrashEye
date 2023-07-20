@@ -11,6 +11,14 @@ With my laptop’s small display, I have Dock-hiding always turned on – anyway
 
 This repository is a placeholder for its public beta issues and feature requests.
 
+## Companion Widget
+
+**New!** TrashEye now has a BetterTouchTool Touch Bar companion trash can widget that, beyond showing the number of trashed items, allows you to open the local trash bin by touching the widget’s icon.
+
+<img src="https://synappser.github.io/images/apps/companion-widget-cropped.gif" alt="Companion Widget" width="518" />
+
+**[Download the widget](https://github.com/synappser/Companion/releases/download/v1.0/Companion_v1.0.zip?raw=true)** (installation instructions in the zip file)
+
 ## FAQ
 
 #### Is this a pre-release?
@@ -39,16 +47,14 @@ Yes, TrashEye is free while it's in beta.
 - [x] Trash image should adapt to dark mode like the regular one in the dock
 - [x] Add slight transparency on red badge (see system preferences badge in Dock)
 - [x] The badge is clipping on its parent view when going from 1/0 or 0/1
+- [x] Offer a BetterTouchTool Touch Bar companion Trash Can widget
 - [ ] Count hidden trashed files option
 - [ ] Add a separate general Keyboard Shortcut to open Preferences window
 - [ ] Open Trash and Empty Trash as menu bar items
 - [ ] Add an option to double-click to open Trash instead of a single click
-- [ ] Offer a BetterTouchTool Touch Bar companion Trash Can widget
-- [ ] On Desktop, a right-click should also give an open trash option in case a reminder is needed for what exactly is in the trash
 - [ ] Add a reset option to move the trash back to its default position
 - [ ] Add a general Restore Default Settings option
 - [ ] 10000 will also clip (set to 10k+ when above 9999)
-- [ ] Add a Touch Bar Trash
 - [ ] Change menu bar icon according to empty/full trash can
 - [ ] Add multiple icons to choose from
 - [ ] Add option to disable count red badge
@@ -56,7 +62,7 @@ Yes, TrashEye is free while it's in beta.
 
 ## System Requirements
 
-Mac computer with an Intel or M1 processor (macOS 10.13+)
+Mac computer with an Apple silicon or Intel processor (macOS 11.0 or newer)
 
 ## Settings
 
