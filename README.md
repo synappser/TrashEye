@@ -3,7 +3,7 @@
 
 # TrashEye
 
-**Simply a Trash Can on your Desktop**
+**Mac OS 9 Trash Can Nostalgia**
 
 With my laptop’s small display, I have Dock-hiding always turned on – anyway the trash icon doesn’t show the file count and a quick Command-Option-D brings it back. Like many of you, I got used to the Trash Can on the Desktop with DragThing that I later replaced with Bin-it until the latter was also discontinued.
 
@@ -48,12 +48,13 @@ Yes, TrashEye is free while it's in beta.
 - [x] Add slight transparency on red badge (see system preferences badge in Dock)
 - [x] The badge is clipping on its parent view when going from 1/0 or 0/1
 - [x] Offer a BetterTouchTool Touch Bar companion Trash Can widget
+- [x] Add a reset option to move the trash back to its default position
+- [x] Add a general Restore Default Settings option
+- [x] Add radio buttons allowing to precisely position the trash in the screen corners and keep that position even through screen resolution changes
 - [ ] Count hidden trashed files option
 - [ ] Add a separate general Keyboard Shortcut to open Preferences window
 - [ ] Open Trash and Empty Trash as menu bar items
 - [ ] Add an option to double-click to open Trash instead of a single click
-- [ ] Add a reset option to move the trash back to its default position
-- [ ] Add a general Restore Default Settings option
 - [ ] 10000 will also clip (set to 10k+ when above 9999)
 - [ ] Change menu bar icon according to empty/full trash can
 - [ ] Add multiple icons to choose from
